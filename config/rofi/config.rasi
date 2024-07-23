@@ -1,0 +1,6 @@
+@import "~/.cache/wal/colors-rofi-dark"
+configuration {
+	lines: 25;
+	font: "FiraCode 30";
+
+}
